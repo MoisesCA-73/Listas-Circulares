@@ -2,13 +2,9 @@
 #include <fstream>
 #include "CircularList.h"
 
-//Josue 973672214
-//
-//Moises 962936628
-/*
-UNANSE!!!!!!!!!!!!!!!!!
-https://meet.google.com/zzt-qufo-zba?authuser=1
-*/
+//Josue Manuel Sumare Uscca
+//Uberto Garcia Caceres
+//Moises Alejandro Casaverde Aleman
 
 using namespace std;
 
